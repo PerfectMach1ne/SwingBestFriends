@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="SwingBestFriends:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/SwingBestFriends_jar</output-path>
-    <root id="archive" name="SwingBestFriends.jar">
-      <element id="module-output" name="SwingBestFriends" />
-    </root>
-  </artifact>
-</component>
